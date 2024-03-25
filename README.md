@@ -9,3 +9,5 @@ This is a simple batch script that allows you to view Rainbow Six: Siege player 
 3. The script will display "Tracking..." and then open your default web browser to the R6Tracker profile page of the entered username.
 4. After the browser opens, the script will display "Completed!" and then prompt you again for a username.
 5. This process will repeat until you close the command prompt window.
+
+## Have fun and catch some cheaters!
